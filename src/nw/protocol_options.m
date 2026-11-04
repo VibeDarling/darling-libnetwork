@@ -26,7 +26,7 @@ DARLING_NW_CLASS_STUB;
 
 @end
 
-DARLING_NW_STUB(nw_protocol_options_access_handle);
+// nw_protocol_options_access_handle is in darling_tls.m.
 DARLING_NW_STUB(nw_protocol_options_copy);
 DARLING_NW_STUB(nw_protocol_options_copy_definition);
 DARLING_NW_STUB(nw_protocol_options_get_hash);
